@@ -1,0 +1,10 @@
+C:\Users\eyluldeniz.can\source\repos\EGBA\DtoLayer\bin\Release\netcoreapp3.1\DtoLayer.deps.json
+C:\Users\eyluldeniz.can\source\repos\EGBA\DtoLayer\bin\Release\netcoreapp3.1\DtoLayer.dll
+C:\Users\eyluldeniz.can\source\repos\EGBA\DtoLayer\bin\Release\netcoreapp3.1\DtoLayer.pdb
+C:\Users\eyluldeniz.can\source\repos\EGBA\DtoLayer\obj\Release\netcoreapp3.1\DtoLayer.csprojAssemblyReference.cache
+C:\Users\eyluldeniz.can\source\repos\EGBA\DtoLayer\obj\Release\netcoreapp3.1\DtoLayer.AssemblyInfoInputs.cache
+C:\Users\eyluldeniz.can\source\repos\EGBA\DtoLayer\obj\Release\netcoreapp3.1\DtoLayer.AssemblyInfo.cs
+C:\Users\eyluldeniz.can\source\repos\EGBA\DtoLayer\obj\Release\netcoreapp3.1\DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\eyluldeniz.can\source\repos\EGBA\DtoLayer\obj\Release\netcoreapp3.1\EFCoreNpgsqlNetTopologySuite.cs
+C:\Users\eyluldeniz.can\source\repos\EGBA\DtoLayer\obj\Release\netcoreapp3.1\DtoLayer.dll
+C:\Users\eyluldeniz.can\source\repos\EGBA\DtoLayer\obj\Release\netcoreapp3.1\DtoLayer.pdb

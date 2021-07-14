@@ -1,0 +1,17 @@
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\bin\Release\netcoreapp3.1\bll.deps.json
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\bin\Release\netcoreapp3.1\bll.dll
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\bin\Release\netcoreapp3.1\bll.pdb
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\bin\Release\netcoreapp3.1\core.dll
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\bin\Release\netcoreapp3.1\dal.dll
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\bin\Release\netcoreapp3.1\DtoLayer.dll
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\bin\Release\netcoreapp3.1\dal.pdb
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\bin\Release\netcoreapp3.1\DtoLayer.pdb
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\bin\Release\netcoreapp3.1\core.pdb
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\obj\Release\netcoreapp3.1\bll.csprojAssemblyReference.cache
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\obj\Release\netcoreapp3.1\bll.AssemblyInfoInputs.cache
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\obj\Release\netcoreapp3.1\bll.AssemblyInfo.cs
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\obj\Release\netcoreapp3.1\bll.csproj.CoreCompileInputs.cache
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\obj\Release\netcoreapp3.1\EFCoreNpgsqlNetTopologySuite.cs
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\obj\Release\netcoreapp3.1\bll.csproj.CopyComplete
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\obj\Release\netcoreapp3.1\bll.dll
+C:\Users\eyluldeniz.can\source\repos\EGBA\bll\obj\Release\netcoreapp3.1\bll.pdb
