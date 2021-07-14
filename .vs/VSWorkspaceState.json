@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\Components",
+    "\\src\\Pages",
+    "\\src\\Services"
+  ],
+  "SelectedNode": "\\src\\Services\\AuthenticationService.js",
+  "PreviewInSolutionExplorer": false
+}

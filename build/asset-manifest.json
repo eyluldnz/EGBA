@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/egba/web/static/css/main.2c632d83.chunk.css",
+    "main.js": "/egba/web/static/js/main.3dac444c.chunk.js",
+    "main.js.map": "/egba/web/static/js/main.3dac444c.chunk.js.map",
+    "runtime-main.js": "/egba/web/static/js/runtime-main.34ea167b.js",
+    "runtime-main.js.map": "/egba/web/static/js/runtime-main.34ea167b.js.map",
+    "static/css/2.83342f34.chunk.css": "/egba/web/static/css/2.83342f34.chunk.css",
+    "static/js/2.1ac623b8.chunk.js": "/egba/web/static/js/2.1ac623b8.chunk.js",
+    "static/js/2.1ac623b8.chunk.js.map": "/egba/web/static/js/2.1ac623b8.chunk.js.map",
+    "index.html": "/egba/web/index.html",
+    "static/css/2.83342f34.chunk.css.map": "/egba/web/static/css/2.83342f34.chunk.css.map",
+    "static/css/main.2c632d83.chunk.css.map": "/egba/web/static/css/main.2c632d83.chunk.css.map",
+    "static/js/2.1ac623b8.chunk.js.LICENSE.txt": "/egba/web/static/js/2.1ac623b8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/egba/web/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34ea167b.js",
+    "static/css/2.83342f34.chunk.css",
+    "static/js/2.1ac623b8.chunk.js",
+    "static/css/main.2c632d83.chunk.css",
+    "static/js/main.3dac444c.chunk.js"
+  ]
+}
